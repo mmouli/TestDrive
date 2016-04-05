@@ -1,0 +1,37 @@
+Issue id: #7841 
+Title: Add pin round button does not adds the pin marker on map after providing all the required details.
+
+Description :
+
+What : Clicking on "add pin" after providing all the required details does not adds the pin marker on the map.
+
+When : Click on "add Pin" round button to add the pin marker on map. 
+
+Where : In a free layout page.
+
+Note: The behaviour is observed in both Safari and Chrome browser.
+
+*Application Details : *
+
+BuildLink : http://newconsole.mobilous.com
+Username : mobiloustesting15@gmail.com
+Password : m@bilous123
+AppId: 1973
+
+MobileWeb Url :
+http://mobiloustester15.mobilous.com/appexe/mobiloustester15/1973/bin/mobileweb2/index.html#page_462
+
+Steps To Reproduce :
+
+For round button "add pin"(Target object is same(P6) page): 
+Go to URL mentioned above >> Click on More tab >> Click on P6 >> Enter title,subtitle,latitude,longitude and marker ID >> Click on "add pin" round button. 
+
+Expected Result : 
+
+1.Clicking on "add pin" round button present on P6 page should add the pin marker on the map present in the same page.
+
+Actual Result :
+
+1.Clicking on "add pin" round button present on P6 page does not add the pin marker on the map present in the same page.
+
+

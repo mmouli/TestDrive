@@ -1,0 +1,33 @@
+--------------------------------------------
+UniTEE: Unified Test Engine Exemplified
+Copyright (c) 2015-16 Rahul Verma
+
+Version:	UniTEE-2.1r1
+Website:	www.autocognite.com
+Contact:	rv@autocognite.com
+--------------------------------------------
+{buckets.parallel=false, log.display.level=INFO, window.name.safari=Safari, report.ini.file.name=results, user.prop.dir=D:\_unitee_experiments\unitee\config, report.xls.file.name=results, depends.dir=D:\_unitee_experiments\unitee\dependencies, buckets.include=all, depends.browser.dir=D:\_unitee_experiments\unitee\dependencies\browser, log.dir=D:\_unitee_experiments\unitee\log, window.name.chrome=Google Chrome, buckets.file=null, report.delimited.file.name=results, report.delimited.file.ext=txt, report.ini.file.ext=ini, report.xml.file.name=results, report.xls.file.ext=xls, report.xml.file.ext=xml, window.name.firefox=Firefox, user.prop.file=D:\_unitee_experiments\unitee\config\unitee.properties, log.file.name=unitee, log.file.level=DEBUG}
+{buckets.parallel=false, log.display.level=INFO, window.name.safari=Safari, report.ini.file.name=results, user.prop.dir=D:\_unitee_experiments\unitee\config, report.xls.file.name=results, depends.dir=D:\_unitee_experiments\unitee\dependencies, buckets.include=all, depends.browser.dir=D:\_unitee_experiments\unitee\dependencies\browser, log.dir=D:\_unitee_experiments\unitee\log, window.name.chrome=Google Chrome, buckets.file=null, report.delimited.file.name=results, report.delimited.file.ext=txt, report.ini.file.ext=ini, report.xml.file.name=results, report.xls.file.ext=xls, report.xml.file.ext=xml, window.name.firefox=Firefox, user.prop.file=D:\_unitee_experiments\unitee\config\unitee.properties, log.file.name=unitee, log.file.level=DEBUG}
+{buckets.parallel=false, log.display.level=INFO, window.name.safari=Safari, report.ini.file.name=results, user.prop.dir=D:\_unitee_experiments\unitee\config, report.xls.file.name=results, depends.dir=D:\_unitee_experiments\unitee\dependencies, buckets.include=all, depends.browser.dir=D:\_unitee_experiments\unitee\dependencies\browser, log.dir=D:\_unitee_experiments\unitee\log, window.name.chrome=Google Chrome, buckets.file=null, report.delimited.file.name=results, report.delimited.file.ext=txt, report.ini.file.ext=ini, report.xml.file.name=results, report.xls.file.ext=xls, report.xml.file.ext=xml, window.name.firefox=Firefox, user.prop.file=D:\_unitee_experiments\unitee\config\unitee.properties, log.file.name=unitee, log.file.level=DEBUG}
+{buckets.parallel=false, log.display.level=INFO, window.name.safari=Safari, report.ini.file.name=results, user.prop.dir=D:\_unitee_experiments\unitee\config, report.xls.file.name=results, depends.dir=D:\_unitee_experiments\unitee\dependencies, buckets.include=all, depends.browser.dir=D:\_unitee_experiments\unitee\dependencies\browser, log.dir=D:\_unitee_experiments\unitee\log, window.name.chrome=Google Chrome, buckets.file=null, report.delimited.file.name=results, report.delimited.file.ext=txt, report.ini.file.ext=ini, report.xml.file.name=results, report.xls.file.ext=xls, report.xml.file.ext=xml, window.name.firefox=Firefox, user.prop.file=D:\_unitee_experiments\unitee\config\unitee.properties, log.file.name=unitee, log.file.level=DEBUG}
+{buckets.parallel=false, log.display.level=INFO, window.name.safari=Safari, report.ini.file.name=results, user.prop.dir=D:\_unitee_experiments\unitee\config, report.xls.file.name=results, depends.dir=D:\_unitee_experiments\unitee\dependencies, buckets.include=all, depends.browser.dir=D:\_unitee_experiments\unitee\dependencies\browser, log.dir=D:\_unitee_experiments\unitee\log, window.name.chrome=Google Chrome, buckets.file=null, report.delimited.file.name=results, report.delimited.file.ext=txt, report.ini.file.ext=ini, report.xml.file.name=results, report.xls.file.ext=xls, report.xml.file.ext=xml, window.name.firefox=Firefox, user.prop.file=D:\_unitee_experiments\unitee\config\unitee.properties, log.file.name=unitee, log.file.level=DEBUG}
+log4j:WARN No appenders could be found for logger (org.apache.http.client.protocol.RequestAddCookies).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+ElementMetaData: Contained Meta{LINK_TEXT=log out}
+Value of Property: LINK_TEXT :: log out
+Allowed: [ID, NAME, XPATH, CSS, CLASS, LINK_TEXT, PARTIAL_LINK_TEXT, TAG, X_TEXT, X_TITLE, X_PARTIAL_TEXT, X_TYPE, X_VALUE, X_IMAGE_PATH]
+Property allowed: LINK_TEXT
+ElementMetaData: Contained Meta{ID=user_login}
+Value of Property: ID :: user_login
+Allowed: [ID, NAME, XPATH, CSS, CLASS, LINK_TEXT, PARTIAL_LINK_TEXT, TAG, X_TEXT, X_TITLE, X_PARTIAL_TEXT, X_TYPE, X_VALUE, X_IMAGE_PATH]
+Property allowed: ID
+ElementMetaData: Contained Meta{ID=wp-submit}
+Value of Property: ID :: wp-submit
+Allowed: [ID, NAME, XPATH, CSS, CLASS, LINK_TEXT, PARTIAL_LINK_TEXT, TAG, X_TEXT, X_TITLE, X_PARTIAL_TEXT, X_TYPE, X_VALUE, X_IMAGE_PATH]
+Property allowed: ID
+ElementMetaData: Contained Meta{ID=user_pass}
+Value of Property: ID :: user_pass
+Allowed: [ID, NAME, XPATH, CSS, CLASS, LINK_TEXT, PARTIAL_LINK_TEXT, TAG, X_TEXT, X_TITLE, X_PARTIAL_TEXT, X_TYPE, X_VALUE, X_IMAGE_PATH]
+Property allowed: ID
+All Done. Exiting.
